@@ -22,7 +22,7 @@ I made backend API using .Net core API and SQL server databse that hosted in Azu
 
  
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)] 
+[![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://github.com/askarmus/stackgig/blob/master/LICENSE)
 
 Copyright (c) 2020 Askar Musthaffa
 
