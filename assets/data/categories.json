@@ -1,0 +1,12 @@
+[
+    {
+        "key": "fruits",
+        "name": "Fruits",
+        "color": "#3AB54A"
+    },
+    {
+        "key": "vegetables",
+        "name": "Vegetables",
+        "color": "#febf75"
+    }
+]
