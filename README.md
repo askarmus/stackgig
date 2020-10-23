@@ -9,6 +9,10 @@ Most of the  concepts implmented by state manager GetX , this project implements
 
 ---
 
+## GetX OvervIew 
+
+Get - GetX is an extra-light and powerful solution for Flutter. It combines high performance state management, intelligent dependency injection, and route management in a quick and practical way. GetX is "4 in 1" package, in other words, State simple/reactive management, Route management, Dependencies managements and utilities, everything ia one only place.
+
 ## Resources
 
 I made backend API using .Net core API and SQL server databse that hosted in Azure cloud platform. 
