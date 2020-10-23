@@ -7,6 +7,9 @@ stackgig.com is community-driven list of essential fullstack interview questions
 
 Most of the  concepts implmented by state manager GetX , this project implements a folder architeture that make sense for placing all the widgets tree from a screen to have secure access of its parent controllers.
 
+## Google Play Feature Image
+![Feature Image](https://github.com/askarmus/stackgig/blob/master/assets/meteril/feature-image.png?raw=true)
+
 ---
 
 ## GetX OvervIew 
